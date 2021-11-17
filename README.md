@@ -14,3 +14,7 @@ Foi criado um algoritmo que cria um vetor x com 10 posições seguindo as regras
 ## Teste 3
 
 Foi criado um algoritmo que lê o nome e a nota de 5 alunos e retorna o aluno com maior nota e sua respectiva nota.
+
+## Link para o repositório
+
+https://github.com/JuliaOlssonR/TESTE-SUMMER-NAVI-CAPITAL
