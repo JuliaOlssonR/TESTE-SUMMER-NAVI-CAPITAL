@@ -7,7 +7,7 @@ for i in range(10): # para cada número inteiro entre 0 e 10
         x[i] = 3+7*factorial(i) # o valor do elemento i no vetor x é substituida pela fórmula indicada
     else: #  caso o numero i seja ímpar
         x[i] = 2+4*log(i) # o valor do elemento i no vetor x é substituida pela fórmula indicada
-indice_max = n.index(max(x)) # encontra o índice para o elemento máximo de x
+indice_max = x.index(max(x)) # encontra o índice para o elemento máximo de x
 valor_medio = round(mean(x),2) # calcula o valor da média dos elementos de x arredondado para duas casas decimais 
 print('A posição do maior elemento é', indice_max) 
 print('A média dos elementos contidos nesse vetor é', valor_medio)
